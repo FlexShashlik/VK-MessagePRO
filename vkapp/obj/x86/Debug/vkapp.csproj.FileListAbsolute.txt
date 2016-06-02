@@ -1,0 +1,27 @@
+c:\users\алексей\documents\visual studio 2010\Projects\vkapp\vkapp\bin\Debug\vkapp.exe
+c:\users\алексей\documents\visual studio 2010\Projects\vkapp\vkapp\bin\Debug\vkapp.pdb
+c:\users\алексей\documents\visual studio 2010\Projects\vkapp\vkapp\obj\x86\Debug\vkapp.FormAuth.resources
+c:\users\алексей\documents\visual studio 2010\Projects\vkapp\vkapp\obj\x86\Debug\vkapp.Properties.Resources.resources
+c:\users\алексей\documents\visual studio 2010\Projects\vkapp\vkapp\obj\x86\Debug\vkapp.csproj.GenerateResource.Cache
+c:\users\алексей\documents\visual studio 2010\Projects\vkapp\vkapp\obj\x86\Debug\vkapp.exe
+c:\users\алексей\documents\visual studio 2010\Projects\vkapp\vkapp\obj\x86\Debug\vkapp.pdb
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\vkapp\vkapp\obj\x86\Debug\vkapp.FormWork.resources
+C:\Users\Алексей\Documents\Visual Studio 2010\Projects\vkapp\vkapp\obj\x86\Debug\vkapp.csprojResolveAssemblyReference.cache
+C:\Users\Sevada\Desktop\vkapp\vkapp\obj\x86\Debug\vkapp.exe
+C:\Users\Sevada\Desktop\vkapp\vkapp\obj\x86\Debug\vkapp.pdb
+C:\Users\Sevada\Desktop\vkapp\vkapp\bin\Debug\vkapp.exe
+C:\Users\Sevada\Desktop\vkapp\vkapp\bin\Debug\vkapp.pdb
+C:\Users\Sevada\Desktop\vkapp\vkapp\obj\x86\Debug\vkapp.csprojResolveAssemblyReference.cache
+C:\Users\Sevada\Desktop\vkapp\vkapp\obj\x86\Debug\vkapp.FormAuth.resources
+C:\Users\Sevada\Desktop\vkapp\vkapp\obj\x86\Debug\vkapp.FormWork.resources
+C:\Users\Sevada\Desktop\vkapp\vkapp\obj\x86\Debug\vkapp.Properties.Resources.resources
+C:\Users\Sevada\Desktop\vkapp\vkapp\obj\x86\Debug\vkapp.csproj.GenerateResource.Cache
+C:\GIT\vkapp\vkapp\obj\x86\Debug\vkapp.exe
+C:\GIT\vkapp\vkapp\obj\x86\Debug\vkapp.pdb
+C:\GIT\vkapp\vkapp\bin\Debug\vkapp.exe
+C:\GIT\vkapp\vkapp\bin\Debug\vkapp.pdb
+C:\GIT\vkapp\vkapp\obj\x86\Debug\vkapp.csprojResolveAssemblyReference.cache
+C:\GIT\vkapp\vkapp\obj\x86\Debug\vkapp.FormAuth.resources
+C:\GIT\vkapp\vkapp\obj\x86\Debug\vkapp.FormWork.resources
+C:\GIT\vkapp\vkapp\obj\x86\Debug\vkapp.Properties.Resources.resources
+C:\GIT\vkapp\vkapp\obj\x86\Debug\vkapp.csproj.GenerateResource.Cache

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<response list="true">
+  <user>
+    <uid>56768032</uid>
+    <first_name>Егор</first_name>
+    <last_name>Процессор</last_name>
+    <online>1</online>
+    <user_id>56768032</user_id>
+  </user>
+  <user>
+    <uid>183101150</uid>
+    <first_name>Алексей</first_name>
+    <last_name>Киреев</last_name>
+    <online>0</online>
+    <user_id>183101150</user_id>
+    <lists list="true">
+      <lid>28</lid>
+    </lists>
+  </user>
+  <user>
+    <uid>207788394</uid>
+    <first_name>Севада</first_name>
+    <last_name>Саакян</last_name>
+    <online>0</online>
+    <user_id>207788394</user_id>
+  </user>
+  <user>
+    <uid>254720757</uid>
+    <first_name>Руслан</first_name>
+    <last_name>Рупси</last_name>
+    <online>1</online>
+    <user_id>254720757</user_id>
+  </user>
+  <user>
+    <uid>325516589</uid>
+    <first_name>It</first_name>
+    <last_name>Park</last_name>
+    <online>0</online>
+    <user_id>325516589</user_id>
+  </user>
+</response>
